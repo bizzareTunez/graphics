@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/prog/computer_graphics/src/1lab/main.cpp
+iostream
+-
+mnp.h
+D:/prog/computer_graphics/src/1lab/mnp.h
+
+D:/prog/computer_graphics/src/1lab/mnp.cpp
+iostream
+-
+mnp.h
+D:/prog/computer_graphics/src/1lab/mnp.h
+
+D:/prog/computer_graphics/src/1lab/mnp.h
+string
+-
+fstream
+-
+cstring
+-
+
